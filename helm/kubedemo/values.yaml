@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 replicaCount: 1
 image:
-  repository: 958306274796.dkr.ecr.us-east-1.amazonaws.com/demo-jenkins-pipeline
+  repository: 410602862282.dkr.ecr.us-east-2.amazonaws.com/demo-poc
   tag: latest
   pullPolicy: IfNotPresent
 service:
